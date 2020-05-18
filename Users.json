@@ -1,0 +1,45 @@
+[
+  {
+    "_id": {
+      "$oid": "5ec00cc60840902934c654f345"
+    },
+    "Nickname": "leonardo",
+    "Email": "remix.remix@mail.ru",
+    "Password": "123456",
+    "Followers": [
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ec013fe08409037d4347752"
+    },
+    "Nickname": "kristina",
+    "Email": "opa@gmail.com",
+    "Password": "123456",
+
+  },
+  {
+    "_id": {
+      "$oid": "5ec014f40840902944c84e93"
+    },
+    "Nickname": "dmytro",
+    "Email": "gaben@gmail.com",
+    "Password": "123456789123456789"
+  },{
+  "_id": {
+    "$oid": "5ec015fb0840903350f30275"
+  },
+  "Nickname": "mrsteven",
+  "Email": "steven@gmail.com",
+  "Password": "5678943213456676433",
+  "Followers": [
+    
+  ]
+},{
+  "_id": {
+    "$oid": "5ec017800840902c08ff9674"
+  },
+  "Nickname": "Corona",
+  "Email": "corona@mail.com",
+  "Password": "1411501582391102022111941545898146128230134207126393901341752432021821214658220108146"
+}]
